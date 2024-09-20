@@ -1,0 +1,14 @@
+{
+  "name": "practica-13-09",
+  "version": "0.1.0",
+  "description": "materia de investigacion operativa",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "RenzoMan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
